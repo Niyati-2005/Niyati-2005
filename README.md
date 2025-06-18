@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Quntum Algorithms
-- 🌱 I’m currently learning Electronics and Physics
-- 😄 Pronouns: She/Her
+Flipping bits in silicon by day, chasing quantum states by night.  
+From Verilog to vectors, I debug everything but the uncertainty principle. 💡
+
 
