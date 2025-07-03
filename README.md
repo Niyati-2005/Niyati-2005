@@ -17,12 +17,10 @@ From Verilog to vectors, I debug everything but the uncertainty principle. 💡
 
 ### 🧰 Skills
 
-- **Languages & Tools:** Verilog, Python, Git, VS Code
+- **Languages & Tools:** Verilog, Python, C,C++, x86, Git, VS Code
 - **Libraries & Frameworks:** PyTorch, NumPy, Matplotlib
-- **Simulation & Modeling:** HSPICE, COMSOL Multiphysics
+- **Simulation & Modeling:** HSPICE, COMSOL Multiphysics,LTSPICE
 - **Concepts:** Digital Design, VLSI, Quantum Information, Basic Machine Learning, Linear Algebra
-- **Soft Skills:** Research writing, documentation, self-driven learning
-
 ---
 
 ### 📌 Featured Projects
