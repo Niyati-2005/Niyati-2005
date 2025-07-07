@@ -9,7 +9,7 @@ From Verilog to vectors, I debug everything but the uncertainty principle. 💡
 
 - 🧠 Currently exploring **quantum optimization & quantum annealing**
 - 🔍 Interested in **VLSI**, **hardware design**, and **quantum information**
-- 🧑‍💻 Learning **Python** and foundational **machine learning** concepts
+-  Learning **Python** and foundational **machine learning** concepts
 - 📚 Research Intern in Quantum Computing at ICFO
 - ✨ Bridging the classical and quantum worlds, one qubit at a time.
 
