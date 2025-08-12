@@ -1,27 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-Flipping bits in silicon by day, chasing quantum states by night.\
-From Verilog to vectors, I debug everything but the uncertainty principle. 💡
-
----
-
-### 👩‍💻 About Me
-
-- 🧠 Currently exploring **quantum optimization & quantum annealing**
-- 🔍 Interested in **VLSI**, **hardware design**, and **quantum information**
--  Learning **Python** and foundational **machine learning** concepts
-- 📚 Research Intern in Quantum Computing at ICFO
-- ✨ Bridging the classical and quantum worlds, one qubit at a time.
+I’m a researcher and developer working at the intersection of **classical hardware design** and **quantum computing**.
+From digital logic in Verilog to quantum optimization algorithms, I enjoy solving complex problems with precision and creativity.
 
 ---
 
-### 🧰 Skills
+## 👩‍💻 About Me
 
-- **Languages & Tools:** Verilog, Python, C,C++, x86, Git, VS Code
-- **Libraries & Frameworks:** PyTorch, NumPy, Matplotlib
-- **Simulation & Modeling:** HSPICE, COMSOL Multiphysics,LTSPICE
-- **Concepts:** Digital Design, VLSI, Quantum Information, Basic Machine Learning, Linear Algebra
+* 🔍 Interests: **VLSI**, **Hardware Design**, **Quantum Algorithm and Computing Problems**
+* 🎓 **Completed Research Internship** in Quantum Computing at **ICFO Under the supervision of Prof. Antonio Acin**
+* 🌐 Passionate about Electronics and Computing 
+
 ---
+
+## 🧰 Skills
+
+**Languages & Tools:**
+Verilog • Python • C • C++ • x86 Assembly • Git • VS Code
+
+**Libraries & Frameworks:**
+PyTorch • NumPy • Matplotlib
+
+**Simulation & Modeling:**
+HSPICE • COMSOL Multiphysics • LTspice
+
+**Core Knowledge:**
+Digital Design • VLSI • Computing Problems • Machine Learning Fundamentals • Linear Algebra\\
+
+---
+
 
 ### 📌 Featured Projects
 
