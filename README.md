@@ -27,7 +27,6 @@ HSPICE • COMSOL Multiphysics • LTspice
 **Core Knowledge:**
 Digital Design • VLSI • Computing Problems • Machine Learning Fundamentals • Linear Algebra\\
 
-📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&count_private=true&theme=radical)
 
