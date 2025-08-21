@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hola!
 
 I’m a researcher and developer working at the intersection of **classical hardware design** and **quantum computing**.
-From digital logic in Verilog to quantum optimization algorithms, I enjoy solving complex problems with precision and creativity.
-
 ---
 
 ## 👩‍💻 About Me
@@ -12,9 +10,7 @@ From digital logic in Verilog to quantum optimization algorithms, I enjoy solvin
 * 🌐 Passionate about Electronics and Computing 
 
 ---
-
 ## 🧰 Skills
-
 **Languages & Tools:**
 Verilog • Python • C • C++ • x86 Assembly • Git • VS Code
 
@@ -25,20 +21,13 @@ PyTorch • NumPy • Matplotlib
 HSPICE • COMSOL Multiphysics • LTspice
 
 **Core Knowledge:**
-Digital Design • VLSI • Computing Problems • Machine Learning Fundamentals • Linear Algebra\\
+ Digital Design • VLSI • Computing Problems • Machine Learning Fundamentals • Linear Algebra
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=radical)
-
-
+---
 ### 📌 Featured Projects
 
 - 🔬 **CMOS Inverter using FinFET** – Modeled & characterized in HSPICE
 - 🔢 **4-bit Arithmetic Unit in Verilog** – Functional unit design for ALUs
-
----
-
-*"Somewhere between deterministic logic and quantum fuzziness is where I build."*
-
+- 💻 **Benchmarking Local Quantum Annealing (LQA)**-As part of my **Research Internship at ICFO (Quantum Information Theory group)**, I benchmarked the Local Quantum Annealing algorithm to evaluate its utility        across combinatorial optimization problems such as SK, MaxCut, and NAE-3SAT.
+---  
+    
