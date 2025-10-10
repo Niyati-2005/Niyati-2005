@@ -18,7 +18,7 @@ Verilog • Python • C • C++ • x86 Assembly • Git • VS Code
 PyTorch • NumPy • Matplotlib
 
 **Simulation & Modeling:**
-HSPICE • COMSOL Multiphysics • LTspice
+HSPICE • COMSOL Multiphysics • LTspice •Cadence Virtuoso
 
 **Core Knowledge:**
  Digital Design • VLSI • Computing Problems • Machine Learning Fundamentals • Linear Algebra
