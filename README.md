@@ -1,6 +1,6 @@
 # Hola!
 
-I’m a researcher and developer working at the intersection of **classical hardware design** and **quantum computing**.
+I’m Student working on becoming a ChipMaker
 ---
 
 ## 👩‍💻 About Me
