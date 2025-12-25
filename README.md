@@ -1,13 +1,11 @@
 # Hola!
-
-I’m Student working on becoming a ChipMaker
 ---
 
 ## 👩‍💻 About Me
 
 * 🔍 Interests: **VLSI**, **Hardware Design**, **Quantum Algorithm and Computing Problems**
 * 🎓 **Completed Research Internship** in Quantum Computing at **ICFO Under the supervision of Prof. Antonio Acin**
-* 🌐 Passionate about Electronics and Computing 
+* 🌐 Passionate about Electronics and Computing
 
 ---
 ## 🧰 Skills
