@@ -1,5 +1,21 @@
 # Hola!
 ---
+<div align="center">
+  <!-- Gojo Satoru -->
+  <img src="https://media.tenor.com/2XhQkFJdQ6gAAAAC/gojo-satoru.gif" width="120" />
+  
+  <!-- Yuji Itadori -->
+  <img src="https://media.tenor.com/1rQkFJdQ6gAAAAC/yuji-itadori.gif" width="120" />
+  
+  <!-- Frieren -->
+  <img src="https://media.tenor.com/3rQkFJdQ6gAAAAC/frieren.gif" width="120" />
+  
+  <!-- Anime Aesthetic Banner -->
+  <img src="https://media.tenor.com/4rQkFJdQ6gAAAAC/anime-banner.gif" width="120" />
+</div>
+
+# Hi, I'm Niyati 👋
+
 
 ## 👩‍💻 About Me
 
