@@ -35,4 +35,5 @@ HSPICE • COMSOL Multiphysics • LTspice •Cadence Virtuoso
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=gruvbox)
 
 ## 🐢 Fun Zone
-![Turtle](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
