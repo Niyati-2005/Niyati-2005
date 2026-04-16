@@ -32,4 +32,4 @@ HSPICE • COMSOL Multiphysics • LTspice •Cadence Virtuoso
 ![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&theme=gruvbox)
  
 ## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=gruvbox)
