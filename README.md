@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/Niyati-2005/images/blob/main/download.jpg" width="100%" height="150" style="object-fit: cover;"/>
 </p>
+
 <p align="center">────────── ✧ ──────────</p>
 
 # *About Me*
@@ -48,15 +49,15 @@
 
 ## *Research & Projects*
 
-###  *CMOS Inverter using FinFET*
+###  CMOS Inverter using FinFET
 - Device-level modeling and characterization in **HSPICE**  
 - Explored switching behavior and scaling effects  
 
-### *4-bit Arithmetic Unit (Verilog)*
+### 4-bit Arithmetic Unit (Verilog)
 - Designed modular ALU components  
 - Focus on **timing correctness and efficiency**
-- 
-### *Local Quantum Annealing (LQA) Benchmarking*
+
+### Local Quantum Annealing (LQA) Benchmarking
 - Benchmarked across:
   - SK Model  
   - MaxCut  
