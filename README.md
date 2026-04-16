@@ -1,55 +1,103 @@
 # Hola!
 ---
-<div align="center">
-  <!-- Gojo Satoru -->
-  <img src="https://media.tenor.com/2XhQkFJdQ6gAAAAC/gojo-satoru.gif" width="120" />
-  
-  <!-- Yuji Itadori -->
-  <img src="https://media.tenor.com/1rQkFJdQ6gAAAAC/yuji-itadori.gif" width="120" />
-  
-  <!-- Frieren -->
-  <img src="https://media.tenor.com/3rQkFJdQ6gAAAAC/frieren.gif" width="120" />
-  
-  <!-- Anime Aesthetic Banner -->
-  <img src="https://media.tenor.com/4rQkFJdQ6gAAAAC/anime-banner.gif" width="120" />
-</div>
 
-# Hi, I'm Niyati 👋
+<p align="center">
+  <img src="https://github.com/Niyati-2005/images/blob/main/download.jpg" width="100%" height="150" style="object-fit: cover;"/>
+</p>
 
+<h1 align="center">I'm Niyati </h1>
+
+<p align="center">
+🌿 VLSI | Hardware Design | Quantum Computing  
+<br>
+<i>quietly building complex systems</i>
+</p>
+
+<p align="center">────────── ✧ ──────────</p>
+
+---
 
 ## 👩‍💻 About Me
 
-* 🔍 Interests: **VLSI**, **Hardware Design**, **Quantum Algorithm and Computing Problems**
-* 🎓 **Completed Research Internship** in Quantum Computing at **ICFO Under the supervision of Prof. Antonio Acin**
-* 🌐 Passionate about Electronics and Computing
+- 🔍 Focused on **VLSI Design, Digital Systems, and Quantum Algorithms**
+- 🎓 Research Internship in **Quantum Computing at ICFO**  
+  *(Supervised by Prof. Antonio Acín)*
+- 🧠 Interested in **hardware-aware computing & optimization**
+- ⚙️ Exploring **AI accelerators + ML systems on hardware**
 
 ---
-## 🧰 Skills
-**Languages & Tools:**
-Verilog • Python • C • C++ • x86 Assembly • Git • VS Code
 
-**Libraries & Frameworks:**
-PyTorch • NumPy • Matplotlib
+## 🧰 Technical Stack
 
-**Simulation & Modeling:**
-HSPICE • COMSOL Multiphysics • LTspice •Cadence Virtuoso
+### 🖥 Languages
+`Verilog` • `Python` • `C` • `C++` • `x86 Assembly`
 
-**Core Knowledge:**
- Digital Design • VLSI • Computing Problems • Machine Learning Fundamentals • Linear Algebra
+### ⚙️ Tools & Environments
+`Git` • `VS Code` • `Cadence Virtuoso`
+
+### 🔬 Simulation & Modeling
+`HSPICE` • `LTspice` • `COMSOL Multiphysics`
+
+### 📚 Libraries
+`PyTorch` • `NumPy` • `Matplotlib`
+
+### 🧠 Core Domains
+- Digital Design & Computer Architecture  
+- VLSI & CMOS Design  
+- Optimization Problems & Algorithms  
+- Machine Learning Fundamentals  
+- Linear Algebra & Mathematical Modeling  
 
 ---
-### 📌 Featured Projects
 
-- 🔬 **CMOS Inverter using FinFET** – Modeled & characterized in HSPICE
-- 🔢 **4-bit Arithmetic Unit in Verilog** – Functional unit design for ALUs
-- 💻 **Benchmarking Local Quantum Annealing (LQA)**-As part of my **Research Internship at ICFO (Quantum Information Theory group)**, I benchmarked the Local Quantum Annealing algorithm to evaluate its utility        across combinatorial optimization problems such as SK, MaxCut, and NAE-3SAT.
----  
-   ## 📊 GitHub Stats
-![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&theme=gruvbox)
- 
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=gruvbox)
+## 📌 Research & Projects
 
+### 🔬 CMOS Inverter using FinFET
+- Device-level modeling and characterization in **HSPICE**  
+- Explored switching behavior and scaling effects  
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+---
 
+### 🔢 4-bit Arithmetic Unit (Verilog)
+- Designed modular ALU components  
+- Focus on **timing correctness and efficiency**
+
+---
+
+### 💻 Local Quantum Annealing (LQA) Benchmarking
+- Benchmarked across:
+  - SK Model  
+  - MaxCut  
+  - NAE-3SAT  
+- Conducted at **ICFO – Quantum Information Theory Group**  
+- Focus: **performance vs computational complexity**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧬 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Niyati-2005/images/blob/main/download2.jpg" width="100%" height="90" style="object-fit: cover; opacity: 0.85;"/>
+</p>
