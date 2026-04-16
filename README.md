@@ -29,7 +29,7 @@ HSPICE • COMSOL Multiphysics • LTspice •Cadence Virtuoso
 - 💻 **Benchmarking Local Quantum Annealing (LQA)**-As part of my **Research Internship at ICFO (Quantum Information Theory group)**, I benchmarked the Local Quantum Annealing algorithm to evaluate its utility        across combinatorial optimization problems such as SK, MaxCut, and NAE-3SAT.
 ---  
    ## 📊 GitHub Stats
-![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&theme=dracula)
+![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&theme=gruvbox)
  
 ## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=cobalt)
