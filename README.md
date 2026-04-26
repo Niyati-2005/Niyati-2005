@@ -1,12 +1,6 @@
 # Hola, I'm Niyati!
 ---
 
-<p align="center">
-  <img src="https://github.com/Niyati-2005/images/blob/main/download.jpg" width="100%" height="150" style="object-fit: cover;"/>
-</p>
-
-<p align="center">────────── ✧ ──────────</p>
-
 # *About Me*
 -  Focused on **VLSI Design, Digital Systems, and Quantum Algorithms**
 -  Research Internship in **Quantum Computing at ICFO Barcelona**  
@@ -82,6 +76,4 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Niyati-2005/images/blob/main/download2.jpg" width="100%" height="90" style="object-fit: cover; opacity: 0.85;"/>
-</p>
+
