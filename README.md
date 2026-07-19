@@ -1,4 +1,4 @@
-# Hi, I'm Niyati Gupta 👋
+# Hola, I'm Niyati 👋
 
 ### Electronics Engineer | Digital Design Enthusiast | Quantum Computing Researcher
 
@@ -98,23 +98,6 @@ The goal is not simply to have a working CPU, but to deeply understand:
 - Verification Methodology
 
 I'm documenting the entire journey—from learning computer architecture fundamentals to implementing a functional RISC-V processor.
-
-### 📖 Read the Technical Blog
-
-Follow the journey here:
-
-➡️ **[Building a Processor From Scratch](https://medium.com/@niyatigupta200526/how-to-build-a-processor-from-scratch-982cc06cef94)**
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ### Connect With Me
 
