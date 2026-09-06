@@ -77,20 +77,9 @@ let g:interests = [
 
 <br>
 
-## `03 // stats.vim`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Niyati-2005&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9&border_color=000000" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niyati-2005&hide_border=true&background=000000&stroke=000000&ring=FF2E97&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=555555" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyati-2005&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9&border_color=000000" height="165"/>
-</div>
-
 <br>
 
-## `04 // experience.vim`
+## `03 // experience.vim`
 
 ```vim
 " ~/niyati/experience.vim
@@ -121,7 +110,7 @@ let g:icfo = {
 
 <br>
 
-## `05 // projects/`
+## `04 // projects/`
 
 ```
 ▾ projects/
@@ -136,7 +125,7 @@ let g:icfo = {
 
 <br>
 
-## `06 // publications.vim`
+## `05 // publications.vim`
 
 ```vim
 " ~/niyati/publications.vim
@@ -157,7 +146,7 @@ let g:publications = [
 
 <br>
 
-## `07 // achievements.vim`
+## `06 // achievements.vim`
 
 ```vim
 " ~/niyati/achievements.vim
@@ -171,6 +160,18 @@ let g:achievements = [
     \ '[x] Dean''s Excellence List — 6 consecutive semesters',
     \ '[x] Sir M. Visvesvaraya Merit Scholarship'
     \ ]
+```
+
+<br>
+
+## `07 // whoami.vim`
+
+```vim
+" ~/niyati/whoami.vim
+" ════════════════════════════════════════════════════
+
+let g:beyond_hardware = 'Amateur photography — a few clicks, off the clock'
+" -> https://in.pinterest.com/niyati200526/
 ```
 
 <br>
