@@ -1,9 +1,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  ~/niyati  ·  NORMAL  ·  utf-8[unix]  ·  vim  ·  100%      ║
-╚══════════════════════════════════════════════════════════╝
+                ╔══════════════════════════════════════════════════════════╗
+                ║  ~/niyati  ·  NORMAL  ·  utf-8[unix]  ·  vim  ·  100%    ║
+                ╚══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=%3A%25s%2FRTL-design+intern%2Fengineer%2Fg;RTL+development+%40+Truechip+Solutions;RTL+%C2%B7+VLSI+%C2%B7+Computer+Architecture" alt="Typing SVG" />
