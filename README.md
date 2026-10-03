@@ -180,15 +180,13 @@ let g:beyond_hardware = 'Amateur photography — a few clicks, off the clock'
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  :wq   saving progress · quitting to grab coffee ☕        ║
-╚══════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════════╗
+    ║  :wq   saving progress · quitting to grab coffee ☕      ║
+    ╚══════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/--LinkedIn-000000?style=flat-square&labelColor=39FF14&color=000000)](https://linkedin.com/in/niyatigupta2604)
 [![Email](https://img.shields.io/badge/--Email-000000?style=flat-square&labelColor=00F0FF&color=000000)](mailto:niyatigupta200526@gmail.com)
 [![GitHub](https://img.shields.io/badge/--GitHub-000000?style=flat-square&labelColor=FF2E97&color=000000)](https://github.com/Niyati-2005)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Niyati-2005&style=flat-square&color=39FF14&labelColor=000000)
 
 </div>
