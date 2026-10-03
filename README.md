@@ -137,11 +137,12 @@ let g:publications = [
     \ '   for High-Performance Computing Applications"',
     \ '  — Scopus-indexed, on FPGAs for AI hardware accelerators',
     \ '',
-    \ 'Patent — Filed',
-    \ '  [TBA] more details to be announced soon'
+    \ 'Patent Application — Published, July 2026',
+    \ '  "An AI-Enabled Smart Wearable for Continuous',
+    \ '   Breast Anomaly Detection"',
+    \ '  — Application No. 202611058745 A',
+    \ '  — Published in the Indian Patent Office Journal',
     \ ]
-
-" [TBA] more in the pipeline
 ```
 
 <br>
